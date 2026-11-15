@@ -20,9 +20,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The CHI 2027 logo files in assets/chi27-cover.png and assets/chi27-mark.png
+The CHI 2027 logo files in chi27-cover.png and chi27-mark.png
 belong to ACM SIGCHI and are not covered by this licence.
 
-assets/vendor/html2canvas.min.js (html2canvas, Niklas von Hertzen) and
-assets/vendor/qrcode.js (qrcode-generator, Kazuhiko Arase) are third-party
+html2canvas.min.js (html2canvas, Niklas von Hertzen) and
+qrcode.js (qrcode-generator, Kazuhiko Arase) are third-party
 files under their own MIT licences.

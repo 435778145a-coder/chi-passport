@@ -65,8 +65,8 @@ This prototype stores everything (name, PIN, figure, photos, stamps, messages) i
 
 ## Technical notes
 
-- One HTML file (`index.html`) with inline CSS and JavaScript, plus images in `assets/`. No build step and no framework.
-- Third-party: Inter and Space Grotesk from Google Fonts; html2canvas 1.4.1 (MIT) for the long-image export and qrcode-generator 1.4.4 (MIT) for QR codes, both in `assets/vendor/`. No APIs or AI models are used in this version.
+- One HTML file (`index.html`) with inline CSS and JavaScript, plus images in ``. No build step and no framework.
+- Third-party: Inter and Space Grotesk from Google Fonts; html2canvas 1.4.1 (MIT) for the long-image export and qrcode-generator 1.4.4 (MIT) for QR codes, both included in the repository. No APIs or AI models are used in this version.
 - The figure is drawn as SVG; photo fabrics are tiled with an SVG pattern.
 
 ## Deploy
@@ -76,4 +76,4 @@ Upload the folder to a public GitHub repository and turn on **Settings → Pages
 ## Licence
 
 Code: MIT, see `LICENSE`.
-The CHI 2027 logo in `assets/chi27-cover.png` and `assets/chi27-mark.png` belongs to ACM SIGCHI and is not covered by the MIT licence. It is used here for the CHI 2027 Digital Experience Competition.
+The CHI 2027 logo in `chi27-cover.png` and `chi27-mark.png` belongs to ACM SIGCHI and is not covered by the MIT licence. It is used here for the CHI 2027 Digital Experience Competition.
